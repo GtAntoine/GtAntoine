@@ -8,81 +8,90 @@ Passionné par l'innovation produit, les expériences utilisateur qui changent l
 
 ## 🚀 Portfolio de projets
 
-### 🎓 [TuteurPrivé](https://github.com/GtAntoine/tuteur-prive-public) — IA Éducative & Innovation Technique
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> Plateforme de tutorat avec pipeline IA révolutionnaire : **GPT-4 Vision pour corriger les devoirs manuscrits photographiés**
+### 🎓 [TuteurPrivé](https://github.com/GtAntoine/tuteur-prive-public)
+**IA Éducative & Innovation Technique**
 
-**Innovation clé** : Premier système au monde combinant OCR manuscrit, vision par IA, et feedback pédagogique personnalisé en un seul flux utilisateur.
+> Pipeline IA révolutionnaire : **GPT-4 Vision pour corriger les devoirs manuscrits photographiés**
 
-**Compétences démontrées :**
-- Vision produit disruptive (OCR + IA en un seul workflow)
+**Innovation :** Premier système au monde combinant OCR manuscrit, vision par IA, et feedback pédagogique personnalisé en un seul flux utilisateur.
+
+**Tech :** React Native, TypeScript, Supabase, OpenAI GPT-4 Vision
+
+**Compétences PO :**
+- Vision produit disruptive
 - Analyse concurrentielle vs Louxor.ai
-- Gestion roadmap 3 phases (MVP → V2 → V3 → V4)
+- Roadmap 3 phases (MVP → V2 → V3 → V4)
 
 [➡️ Voir le portfolio complet](https://github.com/GtAntoine/tuteur-prive-public)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🌙 [NeuraDream](https://github.com/GtAntoine/neuradream-public) — Analyse de Rêves par IA
+### 🌙 [NeuraDream](https://github.com/GtAntoine/neuradream-public)
+**Analyse de Rêves par IA**
 
-> Application d'analyse de rêves utilisant **GPT-4 et DALL-E 3**, avec système unique de **multi-interprétations validées**
+> Application utilisant **GPT-4 et DALL-E 3** avec système unique de **multi-interprétations validées**
 
-**Innovation clé** : Au lieu d'imposer une seule interprétation, NeuraDream propose **3-5 explications par aspect** que l'utilisateur valide pour affiner l'IA progressivement.
+**Innovation :** 3-5 explications par aspect que l'utilisateur valide pour affiner l'IA progressivement. L'utilisateur devient acteur de son analyse.
 
-**Différenciation :**
-- **Système de validation** : L'utilisateur est acteur de son analyse, pas simple consommateur
-- **Apprentissage continu** : Les analyses futures utilisent l'historique de validation
-- **Analyse globale** : Insights sur la continuité onirique à long terme
+**Tech :** React Native, Expo, TypeScript, IndexedDB, GPT-4, DALL-E 3
 
-**Positionnement vs concurrents** : Contrairement à DreamApp/Dream Journal qui donnent une seule interprétation, NeuraDream propose une **IA qui apprend de vous**.
+**Compétences PO :**
+- Différenciation "IA qui apprend de vous"
+- Système de validation utilisateur
+- Architecture 3 niveaux (individuel, thématique, global)
 
 [➡️ Voir le portfolio complet](https://github.com/GtAntoine/neuradream-public)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🎭 [InviteMoi](https://github.com/GtAntoine/invitemoi-public) — Learnings d'un Échec Instructif
+### 🎭 [InviteMoi](https://github.com/GtAntoine/invitemoi-public)
+**Learnings d'un Échec Instructif**
 
-> Plateforme sociale de partage d'expériences culturelles
+> Plateforme sociale de partage d'expériences culturelles avec système de swipe innovant
 
-**Innovation technique** :
-- **Double système host/guest** : "Je cherche un hôte" OU "Je propose d'inviter" (unique sur le marché)
-- **Glassmorphism & animations** : Design moderne avec Framer Motion
-- **11.7k lignes de code** : React 18 + TypeScript + Vite + Supabase
+**Innovation :** Double système host/guest unique + swipe Tinder-like pour événements culturels + design glassmorphism.
 
-**Learnings actionnables** :
-- **Marketplace = seuil critique et sans budget, pas de masse critique**
-- **Seeding essentiel**
-- **Focus géographique** : 1 ville à la fois au lieu de dispersion nationale
+**Tech :** React 18, TypeScript, Vite, Supabase, Framer Motion (11.7k lignes)
 
-[➡️ Voir l'analyse complète du post-mortem](https://github.com/GtAntoine/invitemoi-public)
+**Learnings actionnables :**
+- Marketplace = seuil critique (500+ users/ville)
+- Sans budget marketing, pas de masse critique
+- Seeding essentiel + focus géographique
 
----
+[➡️ Voir l'analyse post-mortem](https://github.com/GtAntoine/invitemoi-public)
 
-### ⛳ [AGSE Golf](https://github.com/GtAntoine/golf-agse-public) — ROI & Pragmatisme Produit
+</td>
+<td width="50%" valign="top">
 
-> Application de gestion d'adhésions pour association de golf — **Démonstration d'une approche Make vs Buy pragmatique**
+### ⛳ [AGSE Golf](https://github.com/GtAntoine/golf-agse-public)
+**ROI & Pragmatisme Produit**
 
-**Contexte** : Mon père utilisait Google Forms + 3 Google Sheets pour gérer 200 membres. J'ai analysé les alternatives et construit une solution custom.
+> Application de gestion d'adhésions pour association — **Approche Make vs Buy pragmatique**
 
-**ROI financier** : **300€/an économisés** + contrôle total des données
+**Contexte :** Remplace Google Forms + 3 Google Sheets pour gérer 200 membres.
 
-**Adoption anticipée** :
-- **Objectif initial** : Lancement septembre 2025
-- **Résultat réel** : Lancement janvier 2025 (**8 mois d'avance**)
-- **Raison** : Qualité UX et fonctionnalités adaptées ont convaincu d'accélérer
+**ROI :** **300€/an économisés** + contrôle total des données
 
-**Force de proposition PO** :
-1. **Validation côté client** : Éviter erreurs de saisie (email, téléphone)
-2. **Formulaire multi-étape** : UX fluide vs formulaire monolithique Google
-3. **Admin dashboard** : Gestion paiements/validations centralisée
+**Adoption anticipée :** Lancement **8 mois en avance** (jan 2025 vs sept 2025) grâce à la qualité UX.
 
-**Compétences PO démontrées** :
-- Analyse comparative rigoureuse (alternatives évaluées)
-- Discovery utilisateur (besoin réel du stakeholder)
-- ROI et business case concret (300€/an d'économisé)
-- Force de proposition UX et Pragmatisme (simple et efficace > feature bloat)
+**Compétences PO :**
+- Analyse comparative rigoureuse
+- Discovery utilisateur (stakeholder = mon père)
+- Force de proposition UX (validation client, multi-étape, admin dashboard)
 
 [➡️ Voir le portfolio complet](https://github.com/GtAntoine/golf-agse-public)
+
+</td>
+</tr>
+</table>
 
 ---
 
