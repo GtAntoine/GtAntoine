@@ -7,11 +7,11 @@
 ### 🎓 [TuteurPrivé](https://github.com/GtAntoine/tuteur-prive-public)
 **IA Éducative & Innovation Technique**
 
-> Pipeline IA révolutionnaire : **GPT-4 Vision pour corriger les devoirs manuscrits photographiés**
+> Pipeline IA révolutionnaire : **GPT-5 Vision pour corriger les devoirs manuscrits photographiés**
 
 **Innovation :** Premier système au monde combinant OCR manuscrit, vision par IA, et feedback pédagogique personnalisé en un seul flux utilisateur.
 
-**Tech :** React, TypeScript, Supabase, OpenAI GPT-4 Vision
+**Tech :** React, TypeScript, Supabase, OpenAI GPT-5 Vision
 
 **Compétences :**
 - Vision produit disruptive
