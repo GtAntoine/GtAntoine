@@ -6,7 +6,7 @@ Passionné par l'innovation produit, les expériences utilisateur qui changent l
 
 ---
 
-## 🚀 Projets Portfolio
+## 🚀 Portfolio de projets
 
 ### 🎓 [TuteurPrivé](https://github.com/GtAntoine/tuteur-prive-public) — IA Éducative & Innovation Technique
 
