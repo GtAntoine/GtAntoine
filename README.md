@@ -14,11 +14,6 @@ Passionné par l'innovation produit, les expériences utilisateur qui changent l
 
 **Innovation clé** : Premier système au monde combinant OCR manuscrit, vision par IA, et feedback pédagogique personnalisé en un seul flux utilisateur.
 
-**Résultats :**
-- **15k lignes de code** (React Native, Expo, TypeScript, Supabase)
-- **Architecture complexe** : 4 niveaux de sujets avec validation contrainte, admin dashboard complet
-- **Success story** : Adopté par des tuteurs professionnels, validation terrain positive
-
 **Compétences démontrées :**
 - Vision produit disruptive (OCR + IA en un seul workflow)
 - Analyse concurrentielle vs Louxor.ai
@@ -68,14 +63,6 @@ Passionné par l'innovation produit, les expériences utilisateur qui changent l
 > Application de gestion d'adhésions pour association de golf — **Démonstration d'une approche Make vs Buy pragmatique**
 
 **Contexte** : Mon père utilisait Google Forms + 3 Google Sheets pour gérer 200 membres. J'ai analysé les alternatives et construit une solution custom.
-
-**Make vs Buy Analysis** :
-| Solution | Coût annuel | Problème |
-|----------|-------------|----------|
-| **HelloAsso Pro** | 300€/an | Trop générique, pas adapté au golf |
-| **Yapla** | 350€/an | Complexité excessive pour le besoin |
-| **ClubEasy/Golfmanager** | 300-500€/an | Incertitude long-terme, pricing flou |
-| **Solution custom** | **0€/an** | **Contrôle total, migration facile** |
 
 **ROI financier** : **300€/an économisés** + contrôle total des données
 
