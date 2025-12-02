@@ -85,10 +85,3 @@
 </table>
 
 ---
-
-## 📫 Contact
-
-**LinkedIn** : [linkedin.com/in/antoinegoethals](https://www.linkedin.com/in/antoinegoethals/)
-**Email** : antoine.gt@orange.fr
-
----
