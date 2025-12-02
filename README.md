@@ -11,7 +11,7 @@
 
 **Innovation :** Premier système au monde combinant OCR manuscrit, vision par IA, et feedback pédagogique personnalisé en un seul flux utilisateur.
 
-**Tech :** React Native, TypeScript, Supabase, OpenAI GPT-4 Vision
+**Tech :** React, TypeScript, Supabase, OpenAI GPT-4 Vision
 
 **Compétences :**
 - Vision produit disruptive
