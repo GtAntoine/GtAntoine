@@ -1,11 +1,3 @@
-# 👋 Antoine Goethals
-
-**Product Owner | Développeur Full-Stack**
-
-Passionné par l'innovation produit, les expériences utilisateur qui changent les comportements, et l'intersection entre IA et impact réel.
-
----
-
 ## 🚀 Portfolio de projets
 
 <table>
