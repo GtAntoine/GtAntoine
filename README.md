@@ -38,9 +38,9 @@ Passionné par l'innovation produit, les expériences utilisateur qui changent l
 
 **Innovation :** 3-5 explications par aspect que l'utilisateur valide pour affiner l'IA progressivement. L'utilisateur devient acteur de son analyse.
 
-**Tech :** React Native, Expo, TypeScript, IndexedDB, GPT-4, DALL-E 3
+**Tech :** React Native, Expo, TypeScript, IndexedDB, GPT-4, DALL-E
 
-**Compétences PO :**
+**Compétences :**
 - Différenciation "IA qui apprend de vous"
 - Système de validation utilisateur
 - Architecture 3 niveaux (individuel, thématique, global)
@@ -66,7 +66,7 @@ Passionné par l'innovation produit, les expériences utilisateur qui changent l
 - Sans budget marketing, pas de masse critique
 - Seeding essentiel + focus géographique
 
-[➡️ Voir l'analyse post-mortem](https://github.com/GtAntoine/invitemoi-public)
+[➡️ Voir le portfolio complet](https://github.com/GtAntoine/invitemoi-public)
 
 </td>
 <td width="50%" valign="top">
@@ -80,11 +80,10 @@ Passionné par l'innovation produit, les expériences utilisateur qui changent l
 
 **ROI :** **300€/an économisés** + contrôle total des données
 
-**Adoption anticipée :** Lancement **8 mois en avance** (jan 2025 vs sept 2025) grâce à la qualité UX.
+**Adoption anticipée :** Lancement **6 mois en avance**
 
-**Compétences PO :**
+**Compétences :**
 - Analyse comparative rigoureuse
-- Discovery utilisateur (stakeholder = mon père)
 - Force de proposition UX (validation client, multi-étape, admin dashboard)
 
 [➡️ Voir le portfolio complet](https://github.com/GtAntoine/golf-agse-public)
