@@ -13,7 +13,7 @@
 
 **Tech :** React Native, TypeScript, Supabase, OpenAI GPT-4 Vision
 
-**Compétences PO :**
+**Compétences :**
 - Vision produit disruptive
 - Analyse concurrentielle vs Louxor.ai
 - Roadmap 3 phases (MVP → V2 → V3 → V4)
