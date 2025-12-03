@@ -4,7 +4,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 [TuteurPrivé](https://github.com/GtAntoine/tuteur-prive-public)
+### 🎓 [TuteurPrivé](https://github.com/GtAntoine/tuteur-prive-public?tab=readme-ov-file#-tuteurpriv%C3%A9---case-study)
 **IA Éducative & Innovation Technique**
 
 > Pipeline IA : **GPT-5 Vision pour créer des exercices personnalisés à partir des leçons photographiés**
@@ -23,10 +23,10 @@
 </td>
 <td width="50%" valign="top">
 
-### 🌙 [NeuraDream](https://github.com/GtAntoine/neuradream-public)
+### 🌙 [NeuraDream](https://github.com/GtAntoine/neuradream-public?tab=readme-ov-file#-neuradream---case-study)
 **Analyse de Rêves par IA**
 
-> Application utilisant **GPT-4 et DALL-E 3** avec système unique de **multi-interprétations validées**
+> Application utilisant **GPT-4 et DALL-E 3** avec système unique de **multi-interprétations**
 
 **Innovation :** 3-5 explications par aspect que l'utilisateur valide pour affiner l'IA progressivement. L'utilisateur devient acteur de son analyse.
 
@@ -44,14 +44,14 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎭 [InviteMoi](https://github.com/GtAntoine/invitemoi-public)
+### 🎭 [InviteMoi](https://github.com/GtAntoine/invitemoi-public?tab=readme-ov-file#-invitemoi---case-study)
 **Learnings d'un Échec Instructif**
 
 > Plateforme sociale de partage d'expériences culturelles
 
 **Innovation :** Double système host/guest unique + swipe Tinder-like pour événements culturels + design glassmorphism.
 
-**Tech :** React 18, TypeScript, Vite, Supabase, Framer Motion (11.7k lignes)
+**Tech :** React 18, TypeScript, Vite, Supabase, Framer Motion
 
 **Learnings actionnables :**
 - Marketplace = seuil critique (500+ users/ville)
@@ -63,7 +63,7 @@
 </td>
 <td width="50%" valign="top">
 
-### ⛳ [AGSE Golf](https://github.com/GtAntoine/golf-agse-public)
+### ⛳ [AGSE Golf](https://github.com/GtAntoine/invitemoi-public?tab=readme-ov-file#-invitemoi---case-study)
 **ROI & Pragmatisme Produit**
 
 > Application de gestion d'adhésions pour association — **Approche Make vs Buy pragmatique**
