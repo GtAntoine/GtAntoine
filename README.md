@@ -7,9 +7,9 @@
 ### 🎓 [TuteurPrivé](https://github.com/GtAntoine/tuteur-prive-public)
 **IA Éducative & Innovation Technique**
 
-> Pipeline IA révolutionnaire : **GPT-5 Vision pour corriger les devoirs manuscrits photographiés**
+> Pipeline IA : **GPT-5 Vision pour créer des exercices personnalisés à partir des leçons photographiés**
 
-**Innovation :** Premier système au monde combinant OCR manuscrit, vision par IA, et feedback pédagogique personnalisé en un seul flux utilisateur.
+**Innovation :** Combine OCR manuscrit, vision par IA, et feedback pédagogique personnalisé en un seul flux utilisateur.
 
 **Tech :** React, TypeScript, Supabase, OpenAI GPT-5 Vision
 
@@ -47,7 +47,7 @@
 ### 🎭 [InviteMoi](https://github.com/GtAntoine/invitemoi-public)
 **Learnings d'un Échec Instructif**
 
-> Plateforme sociale de partage d'expériences culturelles avec système de swipe innovant
+> Plateforme sociale de partage d'expériences culturelles
 
 **Innovation :** Double système host/guest unique + swipe Tinder-like pour événements culturels + design glassmorphism.
 
