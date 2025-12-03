@@ -18,7 +18,7 @@
 - Analyse concurrentielle vs Louxor.ai
 - Roadmap 3 phases (MVP → V2 → V3 → V4)
 
-[➡️ Voir le portfolio complet](https://github.com/GtAntoine/tuteur-prive-public)
+[➡️ Voir le portfolio complet](https://github.com/GtAntoine/tuteur-prive-public?tab=readme-ov-file#-tuteurpriv%C3%A9---case-study)
 
 </td>
 <td width="50%" valign="top">
@@ -37,7 +37,7 @@
 - Système de validation utilisateur
 - Architecture 3 niveaux (individuel, thématique, global)
 
-[➡️ Voir le portfolio complet](https://github.com/GtAntoine/neuradream-public)
+[➡️ Voir le portfolio complet](https://github.com/GtAntoine/neuradream-public?tab=readme-ov-file#-neuradream---case-study)
 
 </td>
 </tr>
@@ -58,12 +58,12 @@
 - Sans budget marketing, pas de masse critique
 - Seeding essentiel + focus géographique
 
-[➡️ Voir le portfolio complet](https://github.com/GtAntoine/invitemoi-public)
+[➡️ Voir le portfolio complet](https://github.com/GtAntoine/invitemoi-public?tab=readme-ov-file#-invitemoi---case-study)
 
 </td>
 <td width="50%" valign="top">
 
-### ⛳ [AGSE Golf](https://github.com/GtAntoine/invitemoi-public?tab=readme-ov-file#-invitemoi---case-study)
+### ⛳ [AGSE Golf](https://github.com/GtAntoine/golf-agse-public?tab=readme-ov-file#-agse-golf---case-study)
 **ROI & Pragmatisme Produit**
 
 > Application de gestion d'adhésions pour association — **Approche Make vs Buy pragmatique**
@@ -78,7 +78,7 @@
 - Analyse comparative rigoureuse
 - Force de proposition UX (validation client, multi-étape, admin dashboard)
 
-[➡️ Voir le portfolio complet](https://github.com/GtAntoine/golf-agse-public)
+[➡️ Voir le portfolio complet](https://github.com/GtAntoine/golf-agse-public?tab=readme-ov-file#-agse-golf---case-study)
 
 </td>
 </tr>
