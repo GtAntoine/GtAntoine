@@ -4,7 +4,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 [TuteurPrivé](https://github.com/GtAntoine/tuteur-prive-public?tab=readme-ov-file#-tuteurpriv%C3%A9---case-study)
+### <img src="https://github.com/GtAntoine/tuteur-prive-public/raw/main/public/images/logo.png" alt="TuteurPrivé" width="30" style="vertical-align: middle;"/> [TuteurPrivé](https://github.com/GtAntoine/tuteur-prive-public)
 **IA Éducative & Innovation Technique**
 
 > Pipeline IA : **GPT-5 Vision pour créer des exercices personnalisés à partir des leçons photographiés**
@@ -44,7 +44,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎭 [InviteMoi](https://github.com/GtAntoine/invitemoi-public?tab=readme-ov-file#-invitemoi---case-study)
+### <img src="https://github.com/GtAntoine/invitemoi-public/raw/main/public/logo.png" alt="InviteMoi" width="30" style="vertical-align: middle;"/> [InviteMoi](https://github.com/GtAntoine/invitemoi-public)
 **Learnings d'un Échec Instructif**
 
 > Plateforme sociale de partage d'expériences culturelles
