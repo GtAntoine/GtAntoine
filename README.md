@@ -68,7 +68,7 @@
 
 > Application de gestion d'adhésions pour association — **Approche Make vs Buy pragmatique**
 
-**Contexte :** Remplace Google Forms + 3 Google Sheets pour gérer 200 membres.
+**Contexte :** Remplace Google Forms + 3 Google Sheets pour gérer 100 membres.
 
 **ROI :** **300€/an économisés** + contrôle total des données
 
