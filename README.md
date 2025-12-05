@@ -1,3 +1,5 @@
+![Banner](banner.jpg)
+
 ## 🚀 Portfolio de projets
 
 <table>
