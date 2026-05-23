@@ -19,7 +19,7 @@
 - Vision produit culturelle (musée dans la poche)
 - Architecture IA streaming temps réel (NDJSON + XMLHttpRequest)
 - Design "Le Vernissage" (noir profond + or champagne)
-- Publication App Store + Google Play (v1.0.6)
+- Publication App Store + Google Play
 
 [➡️ Voir le portfolio complet](https://github.com/GtAntoine/artnalyse-public#-artnalyse---case-study) · [📱 App Store](https://apps.apple.com/fr/app/artnalyse/id6762506288) · [🤖 Google Play](https://play.google.com/store/apps/details?id=fr.goethals.artnalyse)
 
@@ -29,7 +29,7 @@
 ### <img src="https://github.com/GtAntoine/sapior-public/raw/main/public/images/icon.png" alt="Sapior" width="30" style="vertical-align: middle;"/> [Sapior](https://github.com/GtAntoine/sapior-public)
 **App Store iOS · Philosophie & Audio**
 
-> Application audio gamifiée : **catalogue de 30+ oeuvres philosophiques** avec quiz, progression et citations partageables
+> Application audio gamifiée : **catalogue de 100+ résumés audios** avec quiz, progression et citations partageables
 
 **Innovation :** MiniPlayer natif glassmorphism intégré à la navigation + téléchargement offline Cloudflare R2 + QCM auto-générés + partage visuel de citations.
 
@@ -38,8 +38,8 @@
 **Compétences :**
 - Curation de contenu culturel (32 catégories)
 - Architecture audio offline/streaming (R2 + expo-audio)
-- Gamification de l'apprentissage (streaks, quiz, progression)
-- Publication App Store + Google Play (v1.3.0)
+- Gamification de l'apprentissage (quiz, progression)
+- Publication App Store + Google Play
 
 [➡️ Voir le portfolio complet](https://github.com/GtAntoine/sapior-public#-sapior---case-study) · [📱 App Store](https://apps.apple.com/fr/app/sapior/id6761835272) · [🤖 Google Play](https://play.google.com/store/apps/details?id=fr.goethals.sapior)
 
