@@ -19,9 +19,9 @@
 - Vision produit culturelle (musée dans la poche)
 - Architecture IA streaming temps réel (NDJSON + XMLHttpRequest)
 - Design "Le Vernissage" (noir profond + or champagne)
-- Publication App Store iOS (v1.0.6)
+- Publication App Store + Google Play (v1.0.6)
 
-[➡️ Voir le portfolio complet](https://github.com/GtAntoine/artnalyse-public#-artnalyse---case-study) · [📱 App Store](https://apps.apple.com/fr/app/artnalyse/id6762506288)
+[➡️ Voir le portfolio complet](https://github.com/GtAntoine/artnalyse-public#-artnalyse---case-study) · [📱 App Store](https://apps.apple.com/fr/app/artnalyse/id6762506288) · [🤖 Google Play](https://play.google.com/store/apps/details?id=fr.goethals.artnalyse)
 
 </td>
 <td width="50%" valign="top">
@@ -39,9 +39,9 @@
 - Curation de contenu culturel (32 catégories)
 - Architecture audio offline/streaming (R2 + expo-audio)
 - Gamification de l'apprentissage (streaks, quiz, progression)
-- Publication App Store iOS (v1.3.0)
+- Publication App Store + Google Play (v1.3.0)
 
-[➡️ Voir le portfolio complet](https://github.com/GtAntoine/sapior-public#-sapior---case-study) · [📱 App Store](https://apps.apple.com/fr/app/sapior/id6761835272)
+[➡️ Voir le portfolio complet](https://github.com/GtAntoine/sapior-public#-sapior---case-study) · [📱 App Store](https://apps.apple.com/fr/app/sapior/id6761835272) · [🤖 Google Play](https://play.google.com/store/apps/details?id=fr.goethals.sapior)
 
 </td>
 </tr>
