@@ -29,7 +29,7 @@ Aujourd'hui CPTO de [Pet Cheri](https://github.com/GtAntoine/petcheri-public) ([
 - IA en production avec garde-fous (écriture confirmée, plafonds de coût)
 - Qualité : 465 tests, près de 500 commits en quatre mois
 
-[➡️ Voir le portfolio complet](https://github.com/GtAntoine/petcheri-public#-pet-cheri---case-study) · [🌐 petcheri.com](https://petcheri.com)
+[➡️ Voir le portfolio complet](https://github.com/GtAntoine/petcheri-public#-pet-cheri---case-study) · [🎨 Design system](https://app.petcheri.com/design) · [🌐 petcheri.com](https://petcheri.com)
 
 </td>
 </tr>
