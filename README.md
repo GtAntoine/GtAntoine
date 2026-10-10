@@ -4,13 +4,35 @@
 
 Technical Product Owner IA et Product Designer, ingénieur (ESEO) avec plus de 10 ans de développement web. Je recueille, cadre et priorise les besoins, je conçois les interfaces, puis je développe et teste avec des agents IA.
 
-Aujourd'hui CPTO de [Pet Cheri](https://petcheri.com), une marketplace de services pour animaux : trois portails et leur design system, un agent conversationnel qui crée les tickets dans Notion, un assistant vocal et de nombreuses automatisations.
+Aujourd'hui CPTO de [Pet Cheri](https://github.com/GtAntoine/petcheri-public) ([petcheri.com](https://petcheri.com)), une marketplace de services pour animaux : trois portails et leur design system, un agent conversationnel qui crée les tickets dans Notion, un assistant vocal et de nombreuses automatisations.
 
 🌐 [goethals.fr](https://goethals.fr) · 💼 [LinkedIn](https://www.linkedin.com/in/antoinegoethals/)
 
 ## 🚀 Portfolio de projets
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### <img src="https://github.com/GtAntoine/petcheri-public/raw/main/public/images/icon.png" alt="Pet Cheri" width="30" style="vertical-align: middle;"/> [Pet Cheri](https://github.com/GtAntoine/petcheri-public)
+**CPTO · Marketplace de services pour animaux · Vitrine, web et mobile**
+
+> Refonte complète d'une conciergerie animalière premium en quatre mois : **site vitrine, application web à trois portails (clients, prestataires, équipe) et application mobile**
+
+**Innovation :** assistant IA **PACO** qui prépare les demandes, répond sur les données et rédige les tickets, sans jamais écrire seul (chaque action est confirmée d'un clic par l'humain) + facturation refondue avec la comptabilité (note mensuelle, avoirs, facture de commission figée, journal des ventes).
+
+**Tech :** Next.js 16, React 19, TypeScript, Sequelize / MariaDB, Expo, Stripe, Brevo, OpenAI, Playwright, Sentry
+
+**Compétences :**
+- Design system « lux » commun aux trois portails, mode sombre par tokens
+- Product Ownership : règles métier écrites avec la comptabilité, 98 pages spécifiées, 12 audits
+- IA en production avec garde-fous (écriture confirmée, plafonds de coût)
+- Qualité : 465 tests, près de 500 commits en quatre mois
+
+[➡️ Voir le portfolio complet](https://github.com/GtAntoine/petcheri-public#-pet-cheri---case-study) · [🌐 petcheri.com](https://petcheri.com)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
