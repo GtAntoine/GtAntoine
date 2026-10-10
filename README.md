@@ -1,12 +1,5 @@
 ![Banner](banner.jpg)
 
-## 👋 Antoine Goethals
-
-Technical Product Owner IA et Product Designer, ingénieur (ESEO) avec plus de 10 ans de développement web. Je recueille, cadre et priorise les besoins, je conçois les interfaces, puis je développe et teste avec des agents IA.
-
-Aujourd'hui CPTO de [Pet Cheri](https://github.com/GtAntoine/petcheri-public) ([petcheri.com](https://petcheri.com)), une marketplace de services pour animaux : trois portails et leur design system, un agent conversationnel qui crée les tickets dans Notion, un assistant vocal et de nombreuses automatisations.
-
-🌐 [goethals.fr](https://goethals.fr) · 💼 [LinkedIn](https://www.linkedin.com/in/antoinegoethals/)
 
 ## 🚀 Portfolio de projets
 
