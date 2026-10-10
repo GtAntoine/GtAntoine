@@ -1,5 +1,13 @@
 ![Banner](banner.jpg)
 
+## 👋 Antoine Goethals
+
+Technical Product Owner IA et Product Designer, ingénieur (ESEO) avec plus de 10 ans de développement web. Je recueille, cadre et priorise les besoins, je conçois les interfaces, puis je développe et teste avec des agents IA.
+
+Aujourd'hui CPTO de [Pet Cheri](https://petcheri.com), une marketplace de services pour animaux : trois portails et leur design system, un agent conversationnel qui crée les tickets dans Notion, un assistant vocal et de nombreuses automatisations.
+
+🌐 [goethals.fr](https://goethals.fr) · 💼 [LinkedIn](https://www.linkedin.com/in/antoinegoethals/)
+
 ## 🚀 Portfolio de projets
 
 <table>
@@ -7,7 +15,7 @@
 <td width="50%" valign="top">
 
 ### <img src="https://github.com/GtAntoine/artnalyse-public/raw/main/public/images/icon.png" alt="Artnalyse" width="30" style="vertical-align: middle;"/> [Artnalyse](https://github.com/GtAntoine/artnalyse-public)
-**App Store iOS · IA Vision & Culture**
+**App Store · Google Play · IA Vision & Culture**
 
 > Pipeline IA : **GPT-5 Vision + reverse image search Google Lens + TTS streaming** pour analyser n'importe quelle oeuvre d'art
 
@@ -27,13 +35,13 @@
 <td width="50%" valign="top">
 
 ### <img src="https://github.com/GtAntoine/sapior-public/raw/main/public/images/icon.png" alt="Sapior" width="30" style="vertical-align: middle;"/> [Sapior](https://github.com/GtAntoine/sapior-public)
-**App Store iOS · Philosophie & Audio**
+**App Store · Google Play · Philosophie & Audio**
 
-> Application audio gamifiée : **catalogue de 100+ résumés audios** avec quiz, progression et citations partageables
+> Application audio gamifiée : **catalogue de 170+ livres audio** avec quiz, progression et citations partageables
 
-**Innovation :** MiniPlayer natif glassmorphism intégré à la navigation + téléchargement offline Cloudflare R2 + QCM auto-générés + partage visuel de citations.
+**Innovation :** Liquid Glass sur iOS 26, MiniPlayer natif intégré à la navigation, couleur de l'interface tirée de chaque couverture + téléchargement offline Cloudflare R2 + QCM auto-générés + partage visuel de citations.
 
-**Tech :** React Native, Expo, TypeScript, Zustand, Cloudflare R2, expo-audio, BlurView
+**Tech :** React Native, Expo, TypeScript, Zustand, Cloudflare R2, expo-audio, Liquid Glass, BlurView
 
 **Compétences :**
 - Curation de contenu culturel (32 catégories)
@@ -49,20 +57,21 @@
 <td width="50%" valign="top">
 
 ### <img src="https://github.com/GtAntoine/tuteur-prive-public/raw/main/public/images/logo.png" alt="TuteurPrivé" width="30" style="vertical-align: middle;"/> [TuteurPrivé](https://github.com/GtAntoine/tuteur-prive-public)
-**IA Éducative & Innovation Technique**
+**App Store iOS · IA Éducative**
 
 > Pipeline IA : **GPT-5 Vision pour créer des exercices personnalisés à partir des leçons photographiés**
 
-**Innovation :** Combine OCR manuscrit, vision par IA, et feedback pédagogique personnalisé en un seul flux utilisateur.
+**Innovation :** Combine OCR manuscrit, vision par IA, et feedback pédagogique personnalisé en un seul flux utilisateur, avec une analyse en streaming dans l'app iOS (iPhone et iPad).
 
-**Tech :** React, TypeScript, Supabase, OpenAI GPT-5 Vision
+**Tech :** React, React Native, Expo, TypeScript, Supabase Edge Functions, OpenAI GPT-5 Vision, Lottie
 
 **Compétences :**
 - Vision produit disruptive
 - Analyse concurrentielle vs Louxor.ai
-- Roadmap 3 phases (MVP → V2 → V3 → V4)
+- Roadmap en 4 phases (MVP → V2 → V3 → V4)
+- Refonte UX/UI « Le Cahier Vivant »
 
-[➡️ Voir le portfolio complet](https://github.com/GtAntoine/tuteur-prive-public?tab=readme-ov-file#-tuteurpriv%C3%A9---case-study)
+[➡️ Voir le portfolio complet](https://github.com/GtAntoine/tuteur-prive-public?tab=readme-ov-file#-tuteurpriv%C3%A9---case-study) · [📱 App Store](https://apps.apple.com/fr/app/tuteurpriv%C3%A9/id6761138454)
 
 </td>
 <td width="50%" valign="top">
@@ -121,6 +130,7 @@
 **Compétences :**
 - Analyse comparative rigoureuse
 - Force de proposition UX (validation client, multi-étape, admin dashboard)
+- Évolutions 2026 : statistiques, journal d'audit, audit de sécurité
 
 [➡️ Voir le portfolio complet](https://github.com/GtAntoine/golf-agse-public?tab=readme-ov-file#-agse-golf---case-study)
 
