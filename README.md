@@ -27,6 +27,30 @@
 </td>
 </tr>
 <tr>
+<td colspan="2" valign="top">
+
+### <img src="https://github.com/GtAntoine/triolet/raw/main/site/public/favicon.svg" alt="Triolet" width="30" style="vertical-align: middle;"/> [Triolet](https://github.com/GtAntoine/triolet)
+**Open source · npm · Icônes animées pour le web, React et React Native**
+
+<p align="center"><a href="https://gtantoine.github.io/triolet/"><img src="https://github.com/GtAntoine/triolet/raw/main/docs/assets/icons.svg" alt="Seize icônes Triolet qui jouent leur geste : la cloche sonne, le calendrier se coche, le bulletin tombe dans l'urne..." width="560"></a></p>
+
+> **435 icônes animées en trois couleurs**, publiées en trois paquets npm : `triolet` (JavaScript et CSS), `triolet-react` et `triolet-react-native`
+
+**Innovation :** chaque icône se dessine dans trois couleurs au choix (base, principale, accent, en 60 / 30 / 10) avec un léger relief, et joue un petit geste qui dit à quoi elle sert : la cloche sonne, le bulletin tombe dans l'urne, les lignes s'écrivent. Une seule source par icône (dessin, parties mobiles, geste, mots-clés), tout le reste est généré.
+
+**Tech :** TypeScript, CSS pur pour les gestes sur le web (aucune librairie d'animation), React 18 et 19, React Native Skia + Reanimated (gestes sur le thread UI), Astro pour le site, pnpm workspaces
+
+**Compétences :**
+- Design system : trois couleurs dont se déduisent teintes et relief, relief adapté à la taille (complet dès 40 px, simplifié dès 24 px, à plat en dessous)
+- Motion design : un geste par icône, à l'arrêt quand l'utilisateur demande moins d'animation
+- Chaîne de génération : une source par icône vers le SVG et les trois paquets
+- Publication open source : paquets versionnés ensemble, changelog
+
+[➡️ Voir les icônes](https://gtantoine.github.io/triolet/icons/) · [📦 npm](https://www.npmjs.com/package/triolet) · [💻 Code source](https://github.com/GtAntoine/triolet)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### <img src="https://github.com/GtAntoine/artnalyse-public/raw/main/public/images/icon.png" alt="Artnalyse" width="30" style="vertical-align: middle;"/> [Artnalyse](https://github.com/GtAntoine/artnalyse-public)
