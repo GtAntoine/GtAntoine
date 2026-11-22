@@ -32,7 +32,7 @@
 ### <img src="https://github.com/GtAntoine/ciel-cobalt-public/raw/main/public/images/icon.png" alt="Ciel Cobalt" width="30" style="vertical-align: middle;"/> [Ciel Cobalt](https://github.com/GtAntoine/ciel-cobalt-public)
 **Jeu vidéo · Product Owner d'une équipe d'agents IA · Jouable dans le navigateur**
 
-<p align="center"><a href="https://github.com/GtAntoine/ciel-cobalt-public"><img src="https://github.com/GtAntoine/ciel-cobalt-public/raw/main/public/images/01-boss-barrage.jpg" alt="Ciel Cobalt : un boss mécanique agrippé à un barrage de 108 mètres, en voxels" width="560"></a></p>
+<p align="center"><a href="https://github.com/GtAntoine/ciel-cobalt-public"><img src="https://github.com/GtAntoine/ciel-cobalt-public/raw/main/public/images/capsule-ciel-cobalt.jpg" alt="Ciel Cobalt : le chasseur Martin-pêcheur fonce sur le Verrou, boss mécanique agrippé à un barrage de 108 mètres, en voxels" width="560"></a></p>
 
 > Shoot'em up roguelite en voxels où **tout se casse** : barrage de 108 m, pont sous un convoi, volcan, porte-avions. **Une semaine, 144 commits, ~77 000 lignes de C#** : spécifié, arbitré et testé par moi, codé par des agents IA (Claude Code, Codex)
 
