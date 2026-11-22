@@ -53,6 +53,30 @@
 <tr>
 <td colspan="2" valign="top">
 
+### <img src="https://github.com/GtAntoine/pawpark-public/raw/main/public/images/icon.png" alt="PawPark" width="30" style="vertical-align: middle;"/> [PawPark](https://github.com/GtAntoine/pawpark-public)
+**Product Engineer IA · Appli de rencontre entre propriétaires de chiens · iPhone (TestFlight) et web**
+
+<p align="center"><a href="https://github.com/GtAntoine/pawpark-public"><img src="https://github.com/GtAntoine/pawpark-public/raw/main/public/images/header.jpg" alt="Le square de PawPark : un chien en 3D attend près de sa balle corail, « Ton chien t'attend au square »" width="560"></a></p>
+
+> Pas de swipe : **ton chien, recréé en 3D à partir de sa photo, reçoit au square la visite de chiens compatibles**, et leur façon de jouer montre si le courant passe. On décide en proposant une vraie balade. **Six semaines, seul, de la recherche à TestFlight**, avec des agents IA comme équipe de développement
+
+**Innovation :** la photo du chien passe par un modèle de vision sous contrat JSON strict (race, taille, robe, oreilles, queue) et devient un chien 3D riggé et animé ; « Il a choisi », où le chien choisit lui-même entre quatre profils d'un coup de truffe sur l'écran, filmé et partageable ; le chien chez soi en réalité augmentée (murs, vibrations sous le doigt, jeu à deux téléphones).
+
+**Tech :** Expo SDK 57, React Native, TypeScript, React Three Fiber, three.js, Blender (rigging par script), Swift (ARKit, Core Haptics), Supabase (RLS, Auth, Edge Functions), OpenAI Vision, Claude Code
+
+**Compétences :**
+- IA appliquée au produit : vision sous schéma strict, clé côté serveur et plafond de coût, règles explicables là où l'IA n'apporte rien
+- Product engineering de bout en bout : app iOS, version web installable, backoffice, base de données, fonctions serveur
+- Pilotage d'agents IA : mémoire de projet, jusqu'à trois sessions en parallèle, vérification sur l'appareil, plus de 140 tests
+- Sécurité et stores : terrain neutre par défaut, pas de géolocalisation en direct, Sign in with Apple, suppression complète du compte
+
+[➡️ Voir le portfolio complet](https://github.com/GtAntoine/pawpark-public) · [📱 TestFlight](https://testflight.apple.com/join/42rP7xT1) · [🌐 Essayer dans le navigateur](https://goethals.fr/pawpark/mobile/?demo)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 ### <img src="https://github.com/GtAntoine/triolet/raw/main/site/public/favicon.svg" alt="Triolet" width="30" style="vertical-align: middle;"/> [Triolet](https://github.com/GtAntoine/triolet)
 **Open source · npm · Icônes animées pour le web, React et React Native**
 
