@@ -34,7 +34,7 @@
 
 <p align="center"><a href="https://github.com/GtAntoine/ciel-cobalt-public"><img src="https://github.com/GtAntoine/ciel-cobalt-public/raw/main/public/images/capsule-ciel-cobalt.jpg" alt="Ciel Cobalt : le chasseur Martin-pêcheur fonce sur le Verrou, boss mécanique agrippé à un barrage de 108 mètres, en voxels" width="560"></a></p>
 
-> Shoot'em up roguelite en voxels où **tout se casse** : barrage de 108 m, pont sous un convoi, volcan, porte-avions. **Une semaine, 144 commits, ~77 000 lignes de C#** : spécifié, arbitré et testé par moi, codé par des agents IA (Claude Code, Codex)
+> Shoot'em up roguelite en voxels où **tout se casse** : barrage de 108 m, pont sous un convoi, volcan, porte-avions. **Douze jours, 284 commits, ~103 000 lignes de C#** : spécifié, arbitré et testé par moi, codé par des agents IA (Claude Code, Codex)
 
 **Innovation :** le rôle de Product Owner appliqué à des agents IA : règles du projet chiffrées pour eux (« une vedette occupe plus de 15 % de l'écran »), planche de référence obligatoire avant chaque décor, revue par comparaison avant / après, plusieurs agents en parallèle sur le même dépôt avec une discipline de commit ligne à ligne.
 
@@ -43,10 +43,10 @@
 **Compétences :**
 - Product Ownership : GDD à cinq piliers, jalons à critère de fin, 39 décisions tracées avec alternatives et raisons
 - Arbitrage par la donnée : durée d'une sortie mesurée par un pilote automatique, lisibilité raisonnée en % d'écran
-- Qualité : 150 tests joués dans le moteur, Unity piloté en ligne de commande, preuve par capture
+- Qualité : 192 tests joués dans le moteur, Unity piloté en ligne de commande, preuve par capture
 - Go-to-market : étude de 15 pages Steam d'indés, prix, calendrier, déclaration d'IA
 
-[➡️ Voir le portfolio complet](https://github.com/GtAntoine/ciel-cobalt-public) · [🎮 Jouer](https://goethals.fr/ciel-cobalt/)
+[➡️ Voir le portfolio complet](https://github.com/GtAntoine/ciel-cobalt-public) · [▶️ Bande-annonce](https://github.com/GtAntoine/ciel-cobalt-public/blob/main/public/videos/bande-annonce-ciel-cobalt.mp4) · [🎮 Jouer](https://goethals.fr/ciel-cobalt/)
 
 </td>
 </tr>
